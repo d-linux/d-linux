@@ -33,9 +33,11 @@ I teach the same things I build on YouTube, TikTok and Instagram. If you want to
 
 **[gotnext.uk](https://gotnext.uk)**
 
+[![Download on the App Store](https://img.shields.io/badge/App_Store-Download_for_iOS-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/gb/app/gotnext-pickup-basketball/id6782793140)
+
 Pickup basketball, live right now. It started in London and it's opening across the UK. You can see which courts are busy, check in so people know you're on your way, form a crew that holds a court, and run 3x3, 5v5, 1v1 or shootouts. Free, no ads.
 
-Live on the App Store for iOS. The Android version is in internal testing on Google Play ahead of its release.
+[Live on the App Store](https://apps.apple.com/gb/app/gotnext-pickup-basketball/id6782793140) for iOS. The Android version is in internal testing on Google Play ahead of its release.
 
 <!-- SCREENSHOT SLOT: paste 2 or 3 app screenshots here (drag them into the GitHub editor) -->
 
