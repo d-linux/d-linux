@@ -4,7 +4,7 @@
 
 <img width="1280" alt="Denis Koumbou, full-stack developer, London" src="https://raw.githubusercontent.com/d-linux/d-linux/main/banner.png" />
 
-I build apps and take them all the way to real users. One of them is running right now: a basketball app in closed testing on Google Play. I write the frontend, the backend and the database, and I do the deploys.
+I build apps and take them all the way to real users. One of them is live right now: a basketball app on the App Store, with Android in closed testing on Google Play. I write the frontend, the backend and the database, and I do the deploys.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deniswebstudio.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://deniswebstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Koumbou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-koumbou)
@@ -35,7 +35,7 @@ I teach the same things I build on YouTube, TikTok and Instagram. If you want to
 
 Pickup basketball, live right now. It started in London and it's opening across the UK. You can see which courts are busy, check in so people know you're on your way, form a crew that holds a court, and run 3x3, 5v5, 1v1 or shootouts. Free, no ads.
 
-Android closed testing is live on Google Play. iOS is built and waiting on the App Store.
+Live on the App Store for iOS. Android closed testing is live on Google Play.
 
 <!-- SCREENSHOT SLOT: paste 2 or 3 app screenshots here (drag them into the GitHub editor) -->
 
