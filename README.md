@@ -39,7 +39,13 @@ Pickup basketball, live right now. It started in London and it's opening across 
 
 [Live on the App Store](https://apps.apple.com/gb/app/gotnext-pickup-basketball/id6782793140) for iOS. The Android version is in internal testing on Google Play ahead of its release.
 
-<!-- SCREENSHOT SLOT: paste 2 or 3 app screenshots here (drag them into the GitHub editor) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d-linux/d-linux/main/screenshots/gotnext-live-map.png" width="30%" alt="Live map of London courts with hooper counts and friends out now" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/d-linux/d-linux/main/screenshots/gotnext-court-checkin.png" width="30%" alt="Blue Cage court page: who is here now, who is on the way, check in with one tap" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/d-linux/d-linux/main/screenshots/gotnext-teams.png" width="30%" alt="Teams screen: Deptford Union holding Blue Cage, roster with reliability scores" />
+</p>
 
 Everything in the app hangs off one thing: the check-in. Who, which court, when, and what status. Live counts, who's coming, team rankings and match history are all just different views of that one table. Teams only hold courts off real check-ins, so nobody can claim a court they never turned up to.
 
