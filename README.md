@@ -4,7 +4,7 @@
 
 <img width="1280" alt="Denis Koumbou, full-stack developer, London" src="https://raw.githubusercontent.com/d-linux/d-linux/main/banner.png" />
 
-I build apps and take them all the way to real users. Two of them are live right now: a basketball app on the App Store, and an AI tool for creators that takes Stripe payments. I write the frontend, the backend and the database, and I do the deploys.
+I build apps and take them all the way to real users. Two of them are live right now: a basketball app on the App Store, and an AI video director for short-form creators that takes Stripe payments. I write the frontend, the backend and the database, and I do the deploys.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deniswebstudio.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://deniswebstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Koumbou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-koumbou)
@@ -69,11 +69,13 @@ Three problems worth talking about:
 
 **[contentosstudio.com](https://contentosstudio.com)**
 
-An AI tool that plans videos for short-form creators. It learns your niche, your tone, your audience and the things you won't post, then writes production plans that sound like you instead of like a chatbot.
+Your personal video director. You give it a topic, and in about 30 seconds it writes a production-ready short-form script: scene by scene, with hooks, shot notes, B-roll cues, on-screen text, and captions tuned for TikTok, YouTube or Instagram. Its Brand Brain learns your niche, tone and audience so scripts sound like you instead of like a chatbot, there's a teleprompter mode for filming, you can rewrite any single scene with a prompt, and scripts export to PDF or a shareable link.
 
-<!-- SCREENSHOT SLOT: paste a dashboard / generated-plan screenshot here -->
+Live on the web with Stripe subscriptions: a free tier, and a Creator plan at £9.99 a month.
 
-One codebase runs a Next.js web app, its backend, and an iPhone and Android app. Same API, same types, three places to use it.
+<!-- SCREENSHOT SLOT: paste a dashboard / generated-script screenshot here -->
+
+One codebase runs the Next.js web app, its backend, and a mobile app in development. Same API, same types, every surface stays in sync.
 
 Two problems worth talking about:
 
