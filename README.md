@@ -4,7 +4,7 @@
 
 <img width="1280" alt="Denis Koumbou, full-stack developer, London" src="https://raw.githubusercontent.com/d-linux/d-linux/main/banner.png" />
 
-I build apps and take them all the way to real users. Two of them are live right now: a basketball app on the App Store, and an AI video director for short-form creators that takes Stripe payments. I write the frontend, the backend and the database, and I do the deploys.
+I build apps and take them all the way to real users. One of them is live right now: a basketball app on the App Store. The next one, an AI video director for short-form creators, is on the way. I write the frontend, the backend and the database, and I do the deploys.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deniswebstudio.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://deniswebstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Koumbou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-koumbou)
@@ -71,7 +71,7 @@ Three problems worth talking about:
 
 Your personal video director. You give it a topic, and in about 30 seconds it writes a production-ready short-form script: scene by scene, with hooks, shot notes, B-roll cues, on-screen text, and captions tuned for TikTok, YouTube or Instagram. Its Brand Brain learns your niche, tone and audience so scripts sound like you instead of like a chatbot, there's a teleprompter mode for filming, you can rewrite any single scene with a prompt, and scripts export to PDF or a shareable link.
 
-Live on the web with Stripe subscriptions: a free tier, and a Creator plan at £9.99 a month.
+In active development. The marketing page is live at [contentosstudio.com](https://contentosstudio.com) with launch pricing: a free tier, and a Creator plan at £9.99 a month, with Stripe handling subscriptions.
 
 <!-- SCREENSHOT SLOT: paste a dashboard / generated-script screenshot here -->
 
@@ -158,7 +158,7 @@ Built and maintained client web apps. Refactored an e-commerce codebase and got 
 
 ## Say hello
 
-**Hiring?** I've taken two products from an empty folder to real users, and I'm comfortable owning a feature from the database through to the deploy. Email me and I'll walk you through either codebase.
+**Hiring?** I've taken a product from an empty folder to real users on the App Store, with a second on the way, and I'm comfortable owning a feature from the database through to the deploy. Email me and I'll walk you through either codebase.
 
 **Got something you need built?** I do this for small businesses through [Denis WebStudio](https://deniswebstudio.com).
 
