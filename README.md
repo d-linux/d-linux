@@ -4,7 +4,7 @@
 
 <img width="1280" alt="Denis Koumbou, full-stack developer, London" src="https://raw.githubusercontent.com/d-linux/d-linux/main/banner.png" />
 
-I build apps and take them all the way to real users. Two of them are running right now: a basketball app in closed testing on Google Play, and an AI tool for creators that takes Stripe payments. I write the frontend, the backend and the database, and I do the deploys.
+I build apps and take them all the way to real users. One of them is running right now: a basketball app in closed testing on Google Play. I write the frontend, the backend and the database, and I do the deploys.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deniswebstudio.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://deniswebstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Koumbou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-koumbou)
@@ -54,32 +54,6 @@ Three problems worth talking about:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-
----
-
-### 🎬 ContentOS Studio
-
-**[contentosstudio.com](https://contentosstudio.com)**
-
-An AI tool that plans videos for short-form creators. It learns your niche, your tone, your audience and the things you won't post, then writes production plans that sound like you instead of like a chatbot.
-
-<!-- SCREENSHOT SLOT: paste a dashboard / generated-plan screenshot here -->
-
-One codebase runs a Next.js web app, its backend, and an iPhone and Android app. Same API, same types, three places to use it.
-
-Two problems worth talking about:
-
-* **Mobile apps break when the backend changes underneath them.** Here the backend's type definitions are shared straight into the mobile app, so if I change something on the server, the mobile build stops compiling. I find out on my laptop rather than from a user.
-* **Never let the browser decide who has paid.** Stripe tells my server when a subscription changes, my server writes it to the database, and the database is the only thing that answers "can this person use it".
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ---
 
@@ -148,7 +122,7 @@ Built and maintained client web apps. Refactored an e-commerce codebase and got 
 
 ## Say hello
 
-**Hiring?** I've taken two products from an empty folder to real users, and I'm comfortable owning a feature from the database through to the deploy. Email me and I'll walk you through either codebase.
+**Hiring?** I've taken a product from an empty folder to real users, and I'm comfortable owning a feature from the database through to the deploy. Email me and I'll walk you through the codebase.
 
 **Got something you need built?** I do this for small businesses through [Denis WebStudio](https://deniswebstudio.com).
 
